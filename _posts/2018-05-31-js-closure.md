@@ -1,10 +1,11 @@
 ---
-title:  JavaScript 闭包详解
+title: JavaScript 闭包详解  作者天龙八部
 layout: post
 categories: JavaScript
 tags: js闭包 js作用域
 excerpt: JavaScript 闭包原理详解与举例
 ---
+
 # 变量作用域
 
 首先来了解一下Javascript中变量的作用域，除了常见的普通变量外，**对象**和**函数**也是一种变量。变量分为局部变量和全局变量。
