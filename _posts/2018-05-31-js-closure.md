@@ -1,5 +1,5 @@
 ---
-title: 夜郎之国夜郎之人  作者天龙八部
+title: 夜郎国夜郎人  作者天龙八部
 layout: post
 categories: JavaScript
 tags: js闭包 js作用域
