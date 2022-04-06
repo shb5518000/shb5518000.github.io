@@ -1,5 +1,5 @@
 ---
-title: JavaScript 闭包详解  作者天龙八部
+title: 夜郎之国夜郎之人  作者天龙八部
 layout: post
 categories: JavaScript
 tags: js闭包 js作用域
